@@ -8,6 +8,8 @@ Course Project of **Text Analysis and Practice** (Score: 96)
   2. The effectiveness of integrating **positional information**
   3. The effectiveness of **earlier** integrating entities information with **more granular features** of the sequence
 
+(All figures are drawn by the authors, not copied from the web, which can be found in the report)
+
 ## ① PCNN model fusing location features
   _Focus on extracting interaction features between entities and **individual words**, along with **position features** of words relative to the two entities._
   
@@ -34,7 +36,11 @@ Course Project of **Text Analysis and Practice** (Score: 96)
   
 ## Model Evaluation
 
-### PCNN model fusing location features is the **BEST ONE**
+  Applyed both macro and weighted Precision, Recall and F1 to evaluate each model
+  
+#### PCNN model fusing location features is the **BEST ONE**
+
+![image](https://github.com/Jbb-525/Entity-Relation-Extraction/assets/88278422/bd80b4ba-b43f-431f-9654-ec12eb88d29c)
 
 
 

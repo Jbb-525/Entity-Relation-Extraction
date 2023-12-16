@@ -16,6 +16,7 @@ Course Project of **Text Analysis and Practice** (Score: 96)
   * **Concatenated** the word vectors of the two entities with each word in the sentence
   - Incorporated the relative **position** of each word to the two entities to form the final word vector matrix
   * Conducted **segmented convolution**, dividing it into before, middle, and after based on the positions of the two entities
+  * Applyed **RankingLossFunc**
 
   ![image](https://github.com/Jbb-525/Entity-Relation-Extraction/assets/88278422/29982f27-e0fa-4222-af29-e006c9af6372)
 

@@ -33,7 +33,8 @@ Course Project of **Text Analysis and Practice** (Score: 96)
   * Applyed segmented pooling to the hidden layer features of each word extracted by BiGRU
   * Concatenated the last hidden layer state of BiGRU and the word vectors of the two entities with the results obtained from segmented pooling
 
-  
+  ![image](https://github.com/Jbb-525/Entity-Relation-Extraction/assets/88278422/8f27aae3-1029-434c-ac73-6a4d47f61211)
+
 ## Model Evaluation
 
   Applyed both macro and weighted Precision, Recall and F1 to evaluate each model
